@@ -1,0 +1,99 @@
+.page-title-wrap .container ul li a:hover {
+  color: #f2efef;
+}
+.page-title-wrap .container ul li i {
+  padding-right: 5px;
+}
+.page-title-wrap h4 a {
+  font-size: 24px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  margin: 0;
+  text-align: center;
+  line-height: 1.4;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+.page-title-wrap h4 a:hover {
+  color: #f2efef;
+}
+.user-panel-active p {
+  text-align: left;
+}
+.content-title {
+  background: #ffffff;
+  padding: 25px 0px;
+  margin-bottom: 25px;
+}
+.content-title h6 {
+  font-weight: normal;
+  text-transform: capitalize;
+}
+.content-title ul li a:hover {
+  color: #666666;
+}
+.manage-container {
+  background: #ffffff;
+  padding: 25px 0px;
+}
+
+// Only for notification message
+.notification .success-message {
+  color: #51a351;
+}
+.notification .error-message {
+  color: #bd362f;
+}
+.notification .notification-message {
+  color: #f89406;
+}
+.error-message p {
+  color: #bd362f;
+  text-align: left;
+  font-size: 13px;
+  margin-top: 5px;
+}
+//Custom Form
+.custom-form {
+  font-size: 14px;
+}
+.custom-form .form-group label {
+  color: #333333;
+  font-size: 13px;
+}
+.custom-form .form-group .required-field {
+  color: rgb(255, 0, 0);
+}
+.custom-form .form-group input {
+  border-radius: 0px;
+  height: 45px;
+  border-color: #ddd;
+}
+.custom-form .form-group select {
+  border-radius: 0px;
+  height: 45px;
+  border-color: #ddd;
+}
+.custom-form .form-group textarea {
+  border-radius: 0px;
+  border-color: #ddd;
+}
+.custom-form h6 {
+  font-weight: normal;
+  text-align: left;
+}
+.help-block {
+  color: #f89406;
+  text-align: left;
+  font-size: 13px;
+}
+
+// Only for Package
+.pricing-content ul li {
+  text-align: left;
+}
+.pricing-content ul li p {
+  text-align: left;
+  padding-left: 50px;
+}
